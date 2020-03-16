@@ -7,6 +7,8 @@ The landing page has several key areas.
 3. Nav rail
 4. Learn more
 
+<a href="#">Open guided tour</a>
+
 ### Welcome tasks & tours
 
 Here's how you get started using Vantage for ad-hoc workloads.
